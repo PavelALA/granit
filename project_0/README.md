@@ -2,8 +2,8 @@
 
 ## Оглавление
 [1. Описание проекта](https://github.com/PavelALA/granit/blob/main/project_0/README.md#Описание-проекта)\
-[2. Какой кейс решаем](https://github.com/PavelALA/granit/blob/main/project_0/README.md#Какой-кейс-рещаем)\
-[3. Кратакая информация о данных](https://github.com/PavelALA/granit/blob/main/project_0/README.md#Краткая-нформация-о-данных)\
+[2. Какой кейс решаем](https://github.com/PavelALA/granit/blob/main/project_0/README.md#Какой-кейс-решаем)\
+[3. Кратакая информация о данных](https://github.com/PavelALA/granit/blob/main/project_0/README.md#Краткая-информация-о-данных)\
 [4. Этапы работы над проектом](https://github.com/PavelALA/granit/blob/main/project_0/README.md#Этапы-работы-над-проектом)\
 [5. Результаты](https://github.com/PavelALA/granit/blob/main/project_0/README.md#Результаты)\
 [6. Выводы](https://github.com/PavelALA/granit/blob/main/project_0/README.md#Выводы)
@@ -13,7 +13,7 @@
 
 :arrow_up:[к оглавлению](https://github.com/PavelALA/granit/blob/main/project_0/README.md#Оглавление)
 
-### Какой кейс рещаем
+### Какой кейс решаем
 необходимо написать код, который определяет загаданое число за наименьшее количество попыток.
 
 :arrow_up:[к оглавлению](https://github.com/PavelALA/granit/blob/main/project_0/README.md#Оглавление)
@@ -28,18 +28,18 @@
 **Что практикуем**\
 Написание красивого кода на *Python*
 
-### Краткая Информация о данных\
+### Краткая информация о данных
 .....
 
 :arrow_up:[к оглавлению](https://github.com/PavelALA/granit/blob/main/project_0/README.md#Оглавление)
 
-### Этапы работы над проектом\
+### Этапы работы над проектом
 - создание функции на основании которой компьтер загадывает натуральное число в диапазоне от 1 до 100 и самостоятельно его определяет
 - созлание функции, кторая подсчитывает, за какое количество попыток код определил загаданое число, и выводит среднее значение после 1000 повторений
 
 :arrow_up:[к оглавлению](https://github.com/PavelALA/granit/blob/main/project_0/README.md#Оглавление)
 
-### Результаты\
+### Результаты
 В результате работы кода определено, что компьютер определяет загаданное число в среднем за 101 повторение
 
 :arrow_up:[к оглавлению](https://github.com/PavelALA/granit/blob/main/project_0/README.md#Оглавление)
